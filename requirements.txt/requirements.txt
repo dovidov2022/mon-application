@@ -1,0 +1,5 @@
+google-generativeai
+gtts
+pillow
+tkinter
+del "C:\\Nouveau dossier\\code.spec"
